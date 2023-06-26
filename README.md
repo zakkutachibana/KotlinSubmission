@@ -8,6 +8,9 @@ Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindar
 - Membuat fungsi baru yang bukan merupakan tugas latihan
 - Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
 
+## Test Result
+![Test](https://github.com/zakkutachibana/KotlinSubmission/assets/114344871/4559ff59-3d6e-4976-b2d7-b17266104207)
+
 ## Latihan
 - [x] Latihan 1 - Fundamental
 - [x] Latihan 2 - Control Flow
