@@ -7,3 +7,10 @@ Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindar
 - Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
 - Membuat fungsi baru yang bukan merupakan tugas latihan
 - Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+
+## Latihan
+- [x] Latihan 1 - Fundamental
+- [x] Latihan 2 - Control Flow
+- [x] Latihan 3 - Generics
+- [x] Latihan 4 - Collections
+- [x] Latihan 5 - Coroutines
